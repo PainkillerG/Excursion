@@ -1,0 +1,46 @@
+h1{
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: White;
+  text-align: center;
+  display: block;
+background-color: Black;
+}
+body {
+  background-color: Black;
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+  display: block;
+}
+.cta{
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  display: block;
+}
+h2{
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+  font-size: 42px;
+  font-weight: 300;
+}
+p{
+  font-family: Verdana;
+  color: White;
+  text-align: center;
+  font-size: 21px;
+  color: Gray;
+}
+div{
+  display: block;
+}
+.footer{
+  text-align: right;
+}
+.footer p{
+  text-align: right;
+  color: Gray;
+}
